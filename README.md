@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omidnasirii
 - 👀 I’m interested in econometrics
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on data analyze
+- 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me https://t.me/omidnasiriec
 
 <!---
