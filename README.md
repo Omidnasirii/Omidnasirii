@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omidnasirii
 - 👀 I’m interested in econometrics
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning monetary and fiscal adjusment mechanisms
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me https://t.me/omidnasiriec
 
